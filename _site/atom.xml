@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Fab City Blog</title>
- <link href="http://mqvlm.github.io/fabcityblog/atom.xml" rel="self"/>
- <link href="http://mqvlm.github.io/fabcityblog/"/>
- <updated>2016-03-14T15:12:08+01:00</updated>
- <id>http://mqvlm.github.io/fabcityblog</id>
+ <link href="http://fabcity.github.io/ourblog/atom.xml" rel="self"/>
+ <link href="http://fabcity.github.io/ourblog/"/>
+ <updated>2016-03-15T11:40:31+01:00</updated>
+ <id>http://fabcity.github.io/ourblog</id>
  <author>
    <name>Fab City</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Welcome to FAB City</title>
-   <link href="http://mqvlm.github.io/fabcityblog/2016/03/11/welcome-to-fab-city.html"/>
+   <link href="http://fabcity.github.io/ourblog/2016/03/11/welcome-to-fab-city.html"/>
    <updated>2016-03-11T00:00:00+01:00</updated>
-   <id>http://mqvlm.github.io/fabcityblog/2016/03/11/welcome-to-fab-city</id>
+   <id>http://fabcity.github.io/ourblog/2016/03/11/welcome-to-fab-city</id>
    <content type="html">&lt;p&gt;The &lt;a href=&quot;http://fab.city&quot;&gt;FAB City&lt;/a&gt; is an international initiative which emerged from the global &lt;a href=&quot;http://www.fabfoundation.org/fab-labs/&quot;&gt;Fab Lab (Fabrication Laboratory) Network&lt;/a&gt; in order to develop locally productive and globally connected self-sufficient cities.&lt;/p&gt;
 
 &lt;p&gt;It is a practical approach to systemically address a range of social and environmental challenges within our cities by empowering citizens. We work on a new urban model of building and shaping cities that shifts how they source and use materials, from &lt;cite&gt;‘Products In Trash Out’ (PITO)&lt;/cite&gt; to &lt;cite&gt;‘Data In Data Out’ (DIDO)&lt;/cite&gt;. This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code).&lt;/p&gt;
