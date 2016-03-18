@@ -2,7 +2,8 @@
 layout: post
 title: "Welcome to FAB City"
 quote: "We work on a new urban model of building and shaping cities that shifts how they source and use materials"
-image: true
+image: 
+   url: /media/2016-03-11-welcome-to-fab-city/cover.jpg
 video: false
 comments: true
 ---
@@ -11,7 +12,7 @@ The [FAB City](http://fab.city) is an international initiative which emerged fro
 
 It is a practical approach to systemically address a range of social and environmental challenges within our cities by empowering citizens. We work on a new urban model of building and shaping cities that shifts how they source and use materials, from <cite>'Products In Trash Out’ (PITO)</cite> to <cite>‘Data In Data Out’ (DIDO)</cite>. This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code).
 
-### What does it mean to be a FAB City?
+## What does it mean to be a FAB City?
 
 To become a FAB City requires having a more precise knowledge of the way that cities work. The evolution of the project will make it possible to create better systems of capturing and analysing data, developing knowledge about a city, and it will also the implementation of an evaluation system and meticulous monitoring.
 
@@ -31,7 +32,7 @@ This is a great economic opportunity for participating cities. It will create ne
 
 >Collaboration between governments and the civil society: local government and civic organizations, start-ups, universities, and other organizations must work together in order to make a cultural shift that promotes the empowerment of the cities and their citizens.
 
-### How does a FAB City work?
+## How does a FAB City work?
 
 All the initiatives mentioned will be supported by technologies such as digital manufacturing, energy rehabilitation of buildings and neighbourhoods, smart energy networks, electrical mobility, urban permaculture, intelligent infrastructure, and related policy and regulatory approaches, among other solutions to be shared globally between cities.
 
