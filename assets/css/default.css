@@ -50,6 +50,18 @@ h1 {
 	font-size: 36px;
 }
 
+h1 .titulo-noticia {
+    
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif; 
+	font-weight: bold;
+    font-size: 30pt;
+    line-height: 44px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+
+}
+
 h2 {
 	margin-top: 25px;
 	font-size: 30px;
