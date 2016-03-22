@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
 }
 
 .text-muted {
@@ -17,14 +17,20 @@ body {
     color: #{{ site.color.primary }};
 }
 
+/*
+
 p {
     font-size: 14px;
     line-height: 1.75;
 }
 
+
+
 p.large {
     font-size: 16px;
 }
+
+*/
 
 a,
 a:hover,
@@ -45,16 +51,26 @@ a.active {
     color: #{{ site.color.secondary }};
 }
 
+
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    text-transform: none;
+   /* font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700; */
 }
+
+
+
+
+
+    
+
+
 
 .img-centered {
     margin: 0 auto;
@@ -273,6 +289,9 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
 }
 
 header .header-blog {

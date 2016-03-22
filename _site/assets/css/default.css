@@ -21,13 +21,13 @@ header, footer {
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: cover;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Monstserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 header a, footer a {
-	transition-duration: .25s;
+	/*transition-duration: .25s;
 	text-decoration: none;
-	transition-property: width, height, background-size, margin, opacity;
+	transition-property: width, height, background-size, margin, opacity; */
 }
 
 footer {
@@ -41,13 +41,26 @@ p {
 }
 
 a {
-	color: #2a7ead;
+	/*color: #2a7ead; */
+	color: #ff0d0d;
 	text-decoration: none;
 }
 
 h1 {
 	margin-top: 30px;
 	font-size: 36px;
+}
+
+h1 .titulo-noticia {
+    
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif; 
+	font-weight: bold;
+    font-size: 30pt;
+    line-height: 44px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+
 }
 
 h2 {
@@ -72,7 +85,7 @@ h3 {
 }
 
 #post-info h2 {
-	opacity: 0.75;
+	/*opacity: 0.75; */
 	font-style: italic;
 	font-size: 24px;
 	line-height: 24px;
@@ -199,15 +212,17 @@ h3 {
 }
 
 #article a {
-	border-bottom: 2px solid #fff;
+	/*border-bottom: 2px solid #fff;*/
 	-webkit-transition: 0.5s ease;
 	transition: 0.5s ease;
+	color: #ff0d0d;
 }
 
 #article a:hover {
-	border-bottom: 2px solid #2a7ead;
+	/*border-bottom: 2px solid #ff0d0d; */
 	-webkit-transition: 0.5s ease;
 	transition: 0.5s ease;
+	color: #ff0d0d;
 }
 
 
@@ -469,6 +484,7 @@ pre code {
 
 .page-number {
 	padding: 2px 0;
+	text-align: center;
 }
 
 .newer-posts {
@@ -480,7 +496,7 @@ pre code {
 }
 
 .older-posts:hover, .newer-posts:hover {
-	color: #2a7ead;
+	color: #ff0d0d;
 	border-color: #00BDB8;
 }
 
@@ -497,7 +513,7 @@ pre code {
 }
 
 #post-list {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	top: 50px;
 	padding-bottom: 80px;
 	font-weight: 400;
@@ -512,25 +528,28 @@ pre code {
 	font-weight: bold;
 	font-size: 30pt;
 	line-height: 44px;
-	margin-top: 0px;
-	margin-bottom: 8px;
+	margin-top: 20px;
+    /*text-transform: uppercase;*/
 }
 
 #post-list a {
-	color: #555;
+	/*color: #555;*/
+	color: #333;
 	text-decoration: none;
 	transition-duration: .5s;
 }
 
 #post-list a:hover {
-	color: #2a7ead;
+	color: #ff0d0d;
 	text-decoration: none;
 }
 
 .post-description {
 	color: #777;
-	font-size: 15pt;
+	font-size: 16pt;
 	font-family: Fenix, Georgia, "Times New Roman", serif;
+	line-height: 1.2;
+	
 }
 
 .post-date {
