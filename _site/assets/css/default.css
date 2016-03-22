@@ -25,9 +25,9 @@ header, footer {
 }
 
 header a, footer a {
-	transition-duration: .25s;
+	/*transition-duration: .25s;
 	text-decoration: none;
-	transition-property: width, height, background-size, margin, opacity;
+	transition-property: width, height, background-size, margin, opacity; */
 }
 
 footer {
@@ -41,7 +41,8 @@ p {
 }
 
 a {
-	color: #2a7ead;
+	/*color: #2a7ead; */
+	color: #7CBC88;
 	text-decoration: none;
 }
 
@@ -211,15 +212,17 @@ h3 {
 }
 
 #article a {
-	border-bottom: 2px solid #fff;
+	/*border-bottom: 2px solid #fff;*/
 	-webkit-transition: 0.5s ease;
 	transition: 0.5s ease;
+	color: #7CBC88;
 }
 
 #article a:hover {
-	border-bottom: 2px solid #2a7ead;
+	/*border-bottom: 2px solid #7CBC88; */
 	-webkit-transition: 0.5s ease;
 	transition: 0.5s ease;
+	color: #7CBC88;
 }
 
 
@@ -493,7 +496,7 @@ pre code {
 }
 
 .older-posts:hover, .newer-posts:hover {
-	color: #2a7ead;
+	color: #7CBC88;
 	border-color: #00BDB8;
 }
 
@@ -510,7 +513,7 @@ pre code {
 }
 
 #post-list {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	top: 50px;
 	padding-bottom: 80px;
 	font-weight: 400;
@@ -525,25 +528,28 @@ pre code {
 	font-weight: bold;
 	font-size: 30pt;
 	line-height: 44px;
-	margin-top: 0px;
-	margin-bottom: 8px;
+	margin-top: 20px;
+    /*text-transform: uppercase;*/
 }
 
 #post-list a {
-	color: #555;
+	/*color: #555;*/
+	color: #333;
 	text-decoration: none;
 	transition-duration: .5s;
 }
 
 #post-list a:hover {
-	color: #2a7ead;
+	color: #7CBC88;
 	text-decoration: none;
 }
 
 .post-description {
 	color: #777;
-	font-size: 15pt;
+	font-size: 16pt;
 	font-family: Fenix, Georgia, "Times New Roman", serif;
+	line-height: 1.2;
+	
 }
 
 .post-date {

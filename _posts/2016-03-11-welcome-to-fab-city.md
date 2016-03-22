@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to FAB City"
-quote: "We work on a new urban model of building and shaping cities that shifts how they source and use materials"
+quote: "We work on a new urban model of building and shaping cities that shifts how they source and use materials."
 image: 
    url: /media/2016-03-11-welcome-to-fab-city/cover.jpg
 video: false
