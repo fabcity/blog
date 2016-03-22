@@ -1,2 +1,1 @@
-# ourblog
-Fab City's Blog
+Fab City Blog 
