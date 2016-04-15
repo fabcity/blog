@@ -4,7 +4,7 @@
  <title>Fab City Blog</title>
  <link href="http://fabcity.github.io/blog/atom.xml" rel="self"/>
  <link href="http://fabcity.github.io/blog/"/>
- <updated>2016-04-15T14:32:14+02:00</updated>
+ <updated>2016-04-15T15:59:10+02:00</updated>
  <id>http://fabcity.github.io/blog</id>
  <author>
    <name>Fab City</name>
@@ -19,7 +19,7 @@
    <id>http://fabcity.github.io/blog/2016/04/12/the-history-of-architecture-video</id>
    <content type="html">&lt;p&gt;The video was made for the &lt;a href=&quot;http://www.construmat.com/&quot;&gt;Costrumat&lt;/a&gt; 2015 in Barcelona, and illustrates how our way to shape habitat and build cities is connected to the technology development.&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/133676785&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
