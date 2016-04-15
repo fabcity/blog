@@ -531,9 +531,9 @@ pre code {
 
 #post-list h1 {
 	font-weight: bold;
-	font-size: 30pt;
+	font-size: 23pt;
 	line-height: 44px;
-	margin-top: 20px;
+	margin-top: 11px;
     /*text-transform: uppercase;*/
 }
 
@@ -558,7 +558,7 @@ pre code {
 }
 
 .post-date {
-	font-size: 12pt;
+	font-size: 11pt;
 	color: #999;
 }
 
