@@ -3,7 +3,7 @@ layout: post
 title: "FAB City Campus in Amsterdam"
 quote: "Save the date: this April, workshop and conference in Netherlands."
 image:
-   url:
+   url: /media/2016-04-06-fab-city-amsterdam/cover.png
 video: false
 comments: true
 ---

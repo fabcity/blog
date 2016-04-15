@@ -1,5 +1,6 @@
 # Dependencies
 markdown:	kramdown
+
 # Permalinks
 # permalink:	/blog/:title
 
@@ -20,8 +21,8 @@ paginate:         5
 
 
 # Custom vars
-icon:             assets/images/Logo_v2.svg
-cover:            assets/images/header-bg.jpg
+icon:             assets/images/logo.svg
+cover:            assets/images/cover.png
 
 social:
   - icon:         twitter
@@ -37,7 +38,7 @@ social:
     desc:         Add me on google+
 
   - icon:         feed
-    url:          http://fabcity.github.io/atom.xml #ojo!!! arreglar
+    url:           http://fabcity.github.io/atom.xml #ojo!!! arreglar
     desc:         Subscribe to my feed
  
 menu:

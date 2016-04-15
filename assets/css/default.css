@@ -77,11 +77,14 @@ h3 {
 	font-size: 14px;
 	position: absolute;
 	z-index: 2;
+	/*color: #222; /*opcion color negro titulos post */
+
 }
 
 #post-info h1 {
 	font-weight: bold;
 	margin: 15px 0px;
+
 }
 
 #post-info h2 {
