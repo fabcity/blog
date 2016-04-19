@@ -38,7 +38,7 @@ social:
     desc:         Add me on google+
 
   - icon:         feed
-    url:           http://fabcity.github.io/atom.xml #ojo!!! arreglar
+    url:          http://fabcity.github.io/blog/atom.xml 
     desc:         Subscribe to my feed
  
 menu:
