@@ -4,7 +4,7 @@
  <title>Fab City Blog</title>
  <link href="http://fabcity.github.io/blog/atom.xml" rel="self"/>
  <link href="http://fabcity.github.io/blog/"/>
- <updated>2016-04-21T11:55:10+02:00</updated>
+ <updated>2016-04-21T12:15:24+02:00</updated>
  <id>http://fabcity.github.io/blog</id>
  <author>
    <name>Fab City</name>
@@ -17,28 +17,13 @@
    <link href="http://fabcity.github.io/blog/2016/04/12/the-history-of-architecture-video.html"/>
    <updated>2016-04-12T00:00:00+02:00</updated>
    <id>http://fabcity.github.io/blog/2016/04/12/the-history-of-architecture-video</id>
-   <content type="html">&lt;style&gt;
-.videoWrapper {
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 0px;
-	height: 0;
-}
-.videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
-
-&lt;/style&gt;
-
-&lt;p&gt;Fab Lab Barcelona introduces its latest video, created for &lt;a href=&quot;http://www.construmat.com/es/area-innovacion&quot;&gt;Beyond Building Barcelona 2015&lt;/a&gt; faire: A History of  Architecture. The video narrates the history of technology applied to human housing, from the origins to the (possible) future.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Fab Lab Barcelona introduces its latest video, created for &lt;a href=&quot;http://www.construmat.com/es/area-innovacion&quot;&gt;Beyond Building Barcelona 2015&lt;/a&gt; faire: A History of  Architecture. The video narrates the history of technology applied to human housing, from the origins to the (possible) future.&lt;/p&gt;
 
 &lt;p&gt;Content direction: Tomas Diez  &lt;br /&gt;
 Motion graphics: &lt;a href=&quot;http://illo.tv/&quot;&gt;Illo&lt;/a&gt;  &lt;br /&gt;
 Video Made for: Beyond Building Barcelona 2015 by IaaC | Fab Lab Barcelona  &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;videoWrapper&quot;&gt;
 
@@ -49,7 +34,7 @@ Video Made for: Beyond Building Barcelona 2015 by IaaC | Fab Lab Barcelona  &lt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Beyond Building Barcelona 2015 was the largest reunion of the construction sector and associated industries in Spain, Southern Europe, Northern Africa, and Latin America. &lt;a href=&quot;http://beyond.iaac.net/?page_id=1605&quot;&gt;The Pavilion of Innovation 2015 &lt;/a&gt; in Beyond Building Barcelona, curated by &lt;a href=&quot;http://fablabbcn.org/&quot;&gt;IaaC | Fab Lab Barcelona&lt;/a&gt;, presented new ideas and construction paradigms emerging from international excellence in research and pilot projects, forming the basis of future buildings and cities.&lt;/p&gt;
+&lt;p&gt;Beyond Building Barcelona 2015 was the largest reunion of the construction sector and associated industries in Spain, Southern Europe, Northern Africa, and Latin America. The &lt;a href=&quot;http://beyond.iaac.net/?page_id=1605&quot;&gt;Pavilion of Innovation 2015&lt;/a&gt; in Beyond Building Barcelona, curated by &lt;a href=&quot;http://fablabbcn.org/&quot;&gt;IaaC Fab Lab Barcelona&lt;/a&gt;, presented new ideas and construction paradigms emerging from international excellence in research and pilot projects, forming the basis of future buildings and cities.&lt;/p&gt;
 
 &lt;p&gt;The video was projected in 4 large screen throughout the whole pavilion.&lt;/p&gt;
 </content>
