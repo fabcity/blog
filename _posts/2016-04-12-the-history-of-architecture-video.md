@@ -12,7 +12,7 @@ comments: true
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
+	padding-top: 0px;
 	height: 0;
 }
 .videoWrapper iframe {
@@ -32,7 +32,10 @@ Motion graphics: [Illo](http://illo.tv/)  <br>
 Video Made for: Beyond Building Barcelona 2015 by IaaC | Fab Lab Barcelona  <br>
 
 <div class="videoWrapper">
-<iframe src="https://player.vimeo.com/video/133676785" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/133676785?color=ff9933" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
 </div>
 
 <br>

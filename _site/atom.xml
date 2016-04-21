@@ -4,7 +4,7 @@
  <title>Fab City Blog</title>
  <link href="http://fabcity.github.io/blog/atom.xml" rel="self"/>
  <link href="http://fabcity.github.io/blog/"/>
- <updated>2016-04-21T11:42:34+02:00</updated>
+ <updated>2016-04-21T11:55:10+02:00</updated>
  <id>http://fabcity.github.io/blog</id>
  <author>
    <name>Fab City</name>
@@ -21,7 +21,7 @@
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
+	padding-top: 0px;
 	height: 0;
 }
 .videoWrapper iframe {
@@ -41,7 +41,10 @@ Motion graphics: &lt;a href=&quot;http://illo.tv/&quot;&gt;Illo&lt;/a&gt;  &lt;b
 Video Made for: Beyond Building Barcelona 2015 by IaaC | Fab Lab Barcelona  &lt;br /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;videoWrapper&quot;&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/133676785&quot; width=&quot;720&quot; height=&quot;480&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/133676785?color=ff9933&quot; width=&quot;720&quot; height=&quot;405&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
