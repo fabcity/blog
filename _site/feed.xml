@@ -5,13 +5,13 @@
     <description>Fab City Blog</description>
     <link>http://fabcity.github.io/blog/</link>
     <atom:link href="http://fabcity.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 21 Apr 2016 12:15:24 +0200</pubDate>
-    <lastBuildDate>Thu, 21 Apr 2016 12:15:24 +0200</lastBuildDate>
+    <pubDate>Fri, 22 Apr 2016 10:58:22 +0200</pubDate>
+    <lastBuildDate>Fri, 22 Apr 2016 10:58:22 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>The History of Architecture</title>
-        <description>&lt;p&gt;Fab Lab Barcelona introduces its latest video, created for &lt;a href=&quot;http://www.construmat.com/es/area-innovacion&quot;&gt;Beyond Building Barcelona 2015&lt;/a&gt; faire: A History of  Architecture. The video narrates the history of technology applied to human housing, from the origins to the (possible) future.&lt;/p&gt;
+        <description>&lt;p&gt;Fab Lab Barcelona introduces its latest video, created for the &lt;a href=&quot;http://www.construmat.com/es/area-innovacion&quot;&gt;Beyond Building Barcelona 2015&lt;/a&gt; faire: A History of  Architecture. The video narrates the history of technology applied to human housing, from the origins to the (possible) future.&lt;/p&gt;
 
 &lt;p&gt;Content direction: Tomas Diez  &lt;br /&gt;
 Motion graphics: &lt;a href=&quot;http://illo.tv/&quot;&gt;Illo&lt;/a&gt;  &lt;br /&gt;
@@ -30,8 +30,9 @@ Video Made for: Beyond Building Barcelona 2015 by IaaC | Fab Lab Barcelona  &lt;
 
 &lt;p&gt;Beyond Building Barcelona 2015 was the largest reunion of the construction sector and associated industries in Spain, Southern Europe, Northern Africa, and Latin America. The &lt;a href=&quot;http://beyond.iaac.net/?page_id=1605&quot;&gt;Pavilion of Innovation 2015&lt;/a&gt; in Beyond Building Barcelona, curated by &lt;a href=&quot;http://fablabbcn.org/&quot;&gt;IaaC Fab Lab Barcelona&lt;/a&gt;, presented new ideas and construction paradigms emerging from international excellence in research and pilot projects, forming the basis of future buildings and cities.&lt;/p&gt;
 
-&lt;p&gt;The video was projected in 4 large screen throughout the whole pavilion.&lt;/p&gt;
+&lt;p&gt;The video was projected in 4 large screens throughout the whole pavilion.&lt;/p&gt;
 </description>
+        <quote> A video about the role of technology in the way we shape cities. </quote> 
         <pubDate>Tue, 12 Apr 2016 00:00:00 +0200</pubDate>
         <link>http://fabcity.github.io/blog/2016/04/12/the-history-of-architecture-video.html</link>
         <guid isPermaLink="true">http://fabcity.github.io/blog/2016/04/12/the-history-of-architecture-video.html</guid>
@@ -61,6 +62,7 @@ The Expert Meeting is accessible only by invite.&lt;/p&gt;
 
 &lt;p&gt;For more information about the event and the complete list of speakers, please visit http://europebypeople.nl/fabcity-2/&lt;/p&gt;
 </description>
+        <quote> Save the date: this April, workshop and conference in Netherlands. </quote> 
         <pubDate>Wed, 06 Apr 2016 00:00:00 +0200</pubDate>
         <link>http://fabcity.github.io/blog/2016/04/06/fab-city-amsterdam.html</link>
         <guid isPermaLink="true">http://fabcity.github.io/blog/2016/04/06/fab-city-amsterdam.html</guid>
@@ -115,6 +117,7 @@ The Expert Meeting is accessible only by invite.&lt;/p&gt;
 &lt;p&gt;The Fab City project operates within the Fab Lab network, using it as a global infrastructure and knowledge source for the transformation of cities. We propose a new approach to urban regeneration by starting from the innovative capacity of citizens.&lt;/p&gt;
 
 </description>
+        <quote> We work on a new urban model of building and shaping cities that shifts how they source and use materials. </quote> 
         <pubDate>Fri, 11 Mar 2016 00:00:00 +0100</pubDate>
         <link>http://fabcity.github.io/blog/2016/03/11/welcome-to-fab-city.html</link>
         <guid isPermaLink="true">http://fabcity.github.io/blog/2016/03/11/welcome-to-fab-city.html</guid>
