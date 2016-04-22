@@ -4,7 +4,7 @@
  <title>Fab City Blog</title>
  <link href="http://fabcity.github.io/blog/atom.xml" rel="self"/>
  <link href="http://fabcity.github.io/blog/"/>
- <updated>2016-04-22T10:58:22+02:00</updated>
+ <updated>2016-04-22T11:22:43+02:00</updated>
  <id>http://fabcity.github.io/blog</id>
  <author>
    <name>Fab City</name>
@@ -17,7 +17,7 @@
    <link href="http://fabcity.github.io/blog/2016/04/12/the-history-of-architecture-video.html"/>
    <updated>2016-04-12T00:00:00+02:00</updated>
    <id>http://fabcity.github.io/blog/2016/04/12/the-history-of-architecture-video</id>
-   <quote type="html"> A video about the role of technology in the way we shape cities. </quote> 
+   <quote> A video about the role of technology in the way we shape cities. </quote> 
    <content type="html">&lt;p&gt;Fab Lab Barcelona introduces its latest video, created for the &lt;a href=&quot;http://www.construmat.com/es/area-innovacion&quot;&gt;Beyond Building Barcelona 2015&lt;/a&gt; faire: A History of  Architecture. The video narrates the history of technology applied to human housing, from the origins to the (possible) future.&lt;/p&gt;
 
 &lt;p&gt;Content direction: Tomas Diez  &lt;br /&gt;
@@ -46,7 +46,7 @@ Video Made for: Beyond Building Barcelona 2015 by IaaC | Fab Lab Barcelona  &lt;
    <link href="http://fabcity.github.io/blog/2016/04/06/fab-city-amsterdam.html"/>
    <updated>2016-04-06T00:00:00+02:00</updated>
    <id>http://fabcity.github.io/blog/2016/04/06/fab-city-amsterdam</id>
-   <quote type="html"> Save the date: this April, workshop and conference in Netherlands. </quote> 
+   <quote> Save the date: this April, workshop and conference in Netherlands. </quote> 
    <content type="html">&lt;p&gt;&lt;img src=&quot;/blog/img/FABCityAMS.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A ‘FabCity Campus’ has been set up as part of &lt;a href=&quot;http://europebypeople.nl/&quot;&gt;Europe by People&lt;/a&gt;, the Amsterdam EU2016 Arts &amp;amp; Design programme and it is inspired by the ‘Fab City’ project that started in Barcelona two years ago.&lt;/p&gt;
@@ -74,7 +74,7 @@ The Expert Meeting is accessible only by invite.&lt;/p&gt;
    <link href="http://fabcity.github.io/blog/2016/03/11/welcome-to-fab-city.html"/>
    <updated>2016-03-11T00:00:00+01:00</updated>
    <id>http://fabcity.github.io/blog/2016/03/11/welcome-to-fab-city</id>
-   <quote type="html"> We work on a new urban model of building and shaping cities that shifts how they source and use materials. </quote> 
+   <quote> We work on a new urban model of building and shaping cities that shifts how they source and use materials. </quote> 
    <content type="html">&lt;p&gt;The &lt;a href=&quot;http://fab.city&quot;&gt;FAB City&lt;/a&gt; is an international initiative which emerged from the global &lt;a href=&quot;http://www.fabfoundation.org/fab-labs/&quot;&gt;Fab Lab (Fabrication Laboratory) Network&lt;/a&gt; in order to develop locally productive and globally connected self-sufficient cities.&lt;/p&gt;
 
 &lt;p&gt;It is a practical approach to systemically address a range of social and environmental challenges within our cities by empowering citizens. We work on a new urban model of building and shaping cities that shifts how they source and use materials, from &lt;cite&gt;‘Products In Trash Out’ (PITO)&lt;/cite&gt; to &lt;cite&gt;‘Data In Data Out’ (DIDO)&lt;/cite&gt;. This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code).&lt;/p&gt;
