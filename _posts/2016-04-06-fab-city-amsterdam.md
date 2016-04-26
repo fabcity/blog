@@ -6,6 +6,7 @@ image:
    url: /media/2016-04-06-fab-city-amsterdam/cover.png
 video: false
 comments: true
+description: "Save the date: this April, workshop and conference in Netherlands."
 ---
 
 ![alt]({{ site.baseurl }}/img/FABCityAMS.jpg)
