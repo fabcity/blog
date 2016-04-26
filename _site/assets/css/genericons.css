@@ -37,7 +37,7 @@
 	font-size: 16px;
 	line-height: 1;
 	font-family: 'Genericons';
-	text-decoration: inherit;
+	text-decoration: none;
 	font-weight: normal;
 	font-style: normal;
 	vertical-align: top;
@@ -47,6 +47,12 @@
 /**
  * IE7 and IE6 hacks
  */
+
+.genericon:hover {
+
+	color: #FF0D0F;
+
+}
 
 .genericon {
 	*overflow: auto;
