@@ -359,14 +359,12 @@ pre code {
 
 .social-links {
 	width: auto;
-	top: 20px;
-	right: 20px;
-	position: absolute;
-	z-index: 2;
+	position: fixed;
+	z-index: 5;
 }
 
 .social-links a {
-	opacity: 0.75;
+	/*opacity: 0.75;*/
 	text-decoration: none;
 	display: inline-block;
 	margin: 0 5px 0 5px;

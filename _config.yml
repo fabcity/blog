@@ -27,15 +27,20 @@ cover:            assets/images/cover.png
 social:
   - icon:         twitter
     url:          https://twitter.com/fabcity
-    desc:         Follow me on twitter
+    desc:         Follow us on twitter
+
+  - icon:         facebook
+    url:          www.facebook.com/fabcityglobal/
+    desc:         Find us on facebook 
 
   - icon:         github
     url:          https://github.com/fabcity
-    desc:         Fork me on github
+    desc:         Fork us on github
 
-  - icon:         googleplus-alt
-    url:          #https://google.com/+IanCamporezBrunelli
-    desc:         Add me on google+
+
+ # - icon:         googleplus-alt
+ #   url:          #https://google.com/+IanCamporezBrunelli
+ #   desc:         Add me on google+
 
   - icon:         feed
     url:          http://fabcity.github.io/blog/atom.xml 
