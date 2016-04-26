@@ -6,7 +6,6 @@ image:
    url: /media/2016-03-11-welcome-to-fab-city/cover.png
 video: false
 comments: true
-description: "We work on a new urban model of building and shaping cities that shifts
 ---
 
 The [FAB City](http://fab.city) is an international initiative which emerged from the global [Fab Lab (Fabrication Laboratory) Network](http://www.fabfoundation.org/fab-labs/) in order to develop locally productive and globally connected self-sufficient cities. 
