@@ -6,7 +6,6 @@ image:
    url: /media/2016-04-12-the-history-of-architecture-video/cover.png
 video: false
 comments: true
-description: "A video about the role of technology in the way we shape cities."
 ---
 
 
