@@ -3,7 +3,7 @@ layout: post
 title: "The History of Architecture"
 quote: "A video about the role of technology in the way we shape cities."
 image:
-   url: /media/2016-04-12-the-history-of-architecture-video/cover.png
+   url: media/2016-04-12-the-history-of-architecture-video/cover.png
 video: false
 comments: true
 ---

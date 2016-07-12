@@ -3,7 +3,7 @@ layout: post
 title: "Fab City Summer School in Milan"
 quote: "Fab City goes to Milan! Join the summer school in July to learn more about Fab City Strategies."
 image:
-   url: /media/2016-05-10-fab-city-milan/cover.png
+   url: media/2016-05-10-fab-city-milan/cover.png
 video: false
 comments: true
 ---
