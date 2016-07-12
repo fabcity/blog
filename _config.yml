@@ -9,7 +9,7 @@ title:            Fab City Blog
 tagline:          'blog'
 description:      'Fab City Blog'
 url:              http://fabcity.github.io
-baseurl:          /blog
+baseurl:          
 commentsystem:    google
 disqus:           example
 
