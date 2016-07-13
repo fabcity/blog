@@ -99,11 +99,11 @@ h3 {
 }
 
 #post-info h2:before {
-	content: "“";
+	/*content: "“";*/
 }
 
 #post-info h2:after {
-	content: "”";
+	/*content: "”";*/
 }
 
 #post-info h3 {
