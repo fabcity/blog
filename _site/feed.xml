@@ -3,11 +3,11 @@
   <channel>
     <title>Fab City Blog</title>
     <description>Fab City Blog</description>
-    <link>http://fabcity.github.io/</link>
-    <atom:link href="http://fabcity.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 13 Jul 2016 11:49:50 +0200</pubDate>
-    <lastBuildDate>Wed, 13 Jul 2016 11:49:50 +0200</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <link>http://blog.fab.city/</link>
+    <atom:link href="http://blog.fab.city/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 16 Aug 2016 19:47:33 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Aug 2016 19:47:33 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Fab City Summer School in Milan</title>
@@ -54,8 +54,8 @@
 </description>
         <quote> Fab City goes to Milan! Join the summer school in July to learn more about Fab City Strategies. </quote> 
         <pubDate>Tue, 10 May 2016 00:00:00 +0200</pubDate>
-        <link>http://fabcity.github.io/2016/05/10/fab-city-milan.html</link>
-        <guid isPermaLink="true">http://fabcity.github.io/2016/05/10/fab-city-milan.html</guid>
+        <link>http://blog.fab.city/2016/05/10/fab-city-milan.html</link>
+        <guid isPermaLink="true">http://blog.fab.city/2016/05/10/fab-city-milan.html</guid>
         
         
       </item>
@@ -85,8 +85,8 @@ Video Made for: Beyond Building Barcelona 2015 by IaaC | Fab Lab Barcelona  &lt;
 </description>
         <quote> A video about the role of technology in the way we shape cities. </quote> 
         <pubDate>Tue, 12 Apr 2016 00:00:00 +0200</pubDate>
-        <link>http://fabcity.github.io/2016/04/12/the-history-of-architecture-video.html</link>
-        <guid isPermaLink="true">http://fabcity.github.io/2016/04/12/the-history-of-architecture-video.html</guid>
+        <link>http://blog.fab.city/2016/04/12/the-history-of-architecture-video.html</link>
+        <guid isPermaLink="true">http://blog.fab.city/2016/04/12/the-history-of-architecture-video.html</guid>
         
         
       </item>
@@ -115,8 +115,8 @@ The Expert Meeting is accessible only by invite.&lt;/p&gt;
 </description>
         <quote> Save the date: this April, workshop and conference in Netherlands. </quote> 
         <pubDate>Wed, 06 Apr 2016 00:00:00 +0200</pubDate>
-        <link>http://fabcity.github.io/2016/04/06/fab-city-amsterdam.html</link>
-        <guid isPermaLink="true">http://fabcity.github.io/2016/04/06/fab-city-amsterdam.html</guid>
+        <link>http://blog.fab.city/2016/04/06/fab-city-amsterdam.html</link>
+        <guid isPermaLink="true">http://blog.fab.city/2016/04/06/fab-city-amsterdam.html</guid>
         
         
       </item>
@@ -170,8 +170,8 @@ The Expert Meeting is accessible only by invite.&lt;/p&gt;
 </description>
         <quote> We work on a new urban model of building and shaping cities that shifts how they source and use materials. </quote> 
         <pubDate>Fri, 11 Mar 2016 00:00:00 +0100</pubDate>
-        <link>http://fabcity.github.io/2016/03/11/welcome-to-fab-city.html</link>
-        <guid isPermaLink="true">http://fabcity.github.io/2016/03/11/welcome-to-fab-city.html</guid>
+        <link>http://blog.fab.city/2016/03/11/welcome-to-fab-city.html</link>
+        <guid isPermaLink="true">http://blog.fab.city/2016/03/11/welcome-to-fab-city.html</guid>
         
         
       </item>
