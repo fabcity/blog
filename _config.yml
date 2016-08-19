@@ -22,7 +22,7 @@ paginate:         5
 
 # Custom vars
 icon:             assets/images/logo.svg
-cover:            assets/images/cover.png
+cover:            assets/images/cover_network.png
 
 social:
   - icon:         twitter
