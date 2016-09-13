@@ -4,13 +4,53 @@
  <title>Fab City Blog</title>
  <link href="http://blog.fab.city/atom.xml" rel="self"/>
  <link href="http://blog.fab.city/"/>
- <updated>2016-08-19T13:56:21+02:00</updated>
+ <updated>2016-09-13T17:19:06+02:00</updated>
  <id>http://blog.fab.city</id>
  <author>
    <name>Fab City</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Fab City Dashboard at Visualizar’16</title>
+   <link href="http://blog.fab.city/2016/09/13/fab-city-visualizar-media-lab.html"/>
+   <updated>2016-09-13T00:00:00+02:00</updated>
+   <id>http://blog.fab.city/2016/09/13/fab-city-visualizar-media-lab</id>
+   <quote> The Fab City Dashboard project was selected for the Visualizar’16 International Workshop, titled Ciudades abiertas, Open Cities. It will will take place from September 26th to October 5th. </quote> 
+   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/ehXkZ5dhtco&quot; width=&quot;720&quot; height=&quot;405&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;What is the resilience of a city regarding its manufacturing, distribution and consumption of goods? What is the role of citizens in changing the existing networks with open, distributed and collaborative projects and making activities in the city? The Fab City Dashboard project aims at developing a visualisation tool for Fab Cities that show the relation between urban spaces and their networks of design, production and consumption by highlighting their supply chains, resilience and impact. Such a tool can help cities and citizens to understand how citizens design and produce in urban spaces within networks of suppliers, manufacturers, craftsmen, fab labs, makerspaces, hackerspaces, and so on.&lt;/p&gt;
+
+&lt;p&gt;The project aims at developing a dashboard for all the Fab Cities where citizens can understand the existing resilience of cities regarding manufacturing, and how the Maker movement is having an impact on this. Citizens will be able to upload information regarding their projects and their impact on the local systems and networks.&lt;/p&gt;
+
+&lt;p&gt;Citizens will also be able to participate in the discussion regarding their impact on urban resilience. In this way, citizens will be able to document the networks and activities that are generated from their projects, and thus understand their impact on the resilience of cities and therefore participate in shaping Fab Cities.&lt;/p&gt;
+
+&lt;p&gt;The Fab City Dashboard project &lt;a href=&quot;http://medialab-prado.es/article/visualizar16-proyectos-seleccionados&quot;&gt;was selected&lt;/a&gt;for the &lt;a href=&quot;http://medialab-prado.es/article/visualizar16-ciudades-abiertas-open-cities&quot;&gt;Visualizar’16 International Workshop&lt;/a&gt;, titled Ciudades abiertas, Open Cities. It will will take place from September 26th to October 5th. During ten days, eight multidisciplinary teams will develop eight projects dealing with city data. The selected projects will be presented during the &lt;a href=&quot;http://opencitiessummit.org/&quot;&gt;Open Cities Summit&lt;/a&gt;, the international summit of open cities, which will take place in Medialab-Prado on October 5th within the framework of the activities previous to the &lt;a href=&quot;http://opendatacon.org/&quot;&gt;International Open Data Conference&lt;/a&gt;, #IODC16, that will take place in Madrid on October 6th and 7th.&lt;/p&gt;
+
+&lt;p&gt;Once the Open Cities Summit concludes, the resulting work will be showcased in Medialab-Prado. Since 2007, the Visualizar program explores the social, cultural and artistic implications of data culture, and proposes methodologies to make them more understandable and open paths for participation. The Fab City Dashboard will be developed at Medialab-Prado in Madrid from October 26th to October 5th, 2016. If you want to participate, &lt;a href=&quot;http://medialab-prado.es/article/visualizar16-call-for-collaborators&quot;&gt;you can register as a collaborator for the project:&lt;/a&gt; registration is free and the deadline is one week before the beginning of the workshop, September 19th.&lt;/p&gt;
+
+&lt;p&gt;The project aims at developing a visualisation tool for Fab Cities that show the relation between urban spaces and their networks of design, production and consumption by highlighting their supply chains, resilience and impact. Such a tool can help cities and citizens to understand how citizens design and produce in urban spaces within networks of suppliers, manufacturers, craftsmen, fab labs, makerspaces, hackerspaces, and so on.&lt;/p&gt;
+
+&lt;p&gt;What is the resilience of a city regarding its manufacturing, distribution and consumption of goods? What is the role of citizens in changing the existing networks with open, distributed and collaborative projects and making activities in the city? The project aims at developing a dashboard for all the Fab Cities, where citizens can understand the existing resilience of cities regarding manufacturing, and how the Maker movement is having an impact on this. Citizens will be able to upload information regarding their projects and their impact on the local systems and networks. Citizens will also be able to participate in the discussion regarding their impact on urban resilience. Furthermore, these data will be integrated with data from several sources of open and Maker projects and regarding urban manufacturing. For this reason, the project aims at:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Synthesising a simple framework for understanding urban resilience (based on existing research and data) which could be applied to any city;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Synthesising a simple framework for understanding the impact of making activities on such resilience. In this way, citizens will be able to document the networks and activities that are generated from their projects, and thus understand their impact on the resilience of cities and therefore participate in shaping Fab Cities.
+Furthermore, the project will be publicly version on GitHub and released with free / open licenses such as AGPL for the backend and LGPL or MIT for libraries. We aim at implementing an open API system on the dashboard, and release the data openly (though the specific licenses or strategies will be constrained by the data sources, so we will try to use as much as possible data under open licenses or in the public domain).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For any question, please contact Massimo Menichinelli at massimo@fablabbcn.org&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Fab City Summer School in Milan</title>
