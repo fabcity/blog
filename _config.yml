@@ -8,7 +8,7 @@ markdown:	kramdown
 title:            Fab City Blog
 tagline:          'blog'
 description:      'Fab City Blog'
-url:              http://blog.fab.city
+url:              
 baseurl:          
 commentsystem:    google
 disqus:           example
